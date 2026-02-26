@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+.next/
+
+# Local env/config
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Logs and temp
+*.log
+*.tmp
+
+# Uploaded/generated local data
+api/uploaded_files/
+
+# IDE
+.idea/
+.vscode/

@@ -1,0 +1,3 @@
+KnowStack lets users upload files and ask grounded questions.
+Chunking helps retrieval by splitting long text into smaller units.
+Citations should include page and source document name.
